@@ -2,6 +2,7 @@ package day01;
 
 import java.util.Scanner;
 
+// 是否為閏年？
 public class LeapYear {
 
 	public static void main(String[] args) {

@@ -1,5 +1,6 @@
 package day01;
 
+// 九九乘法表
 public class MultipleTable {
 	public static void main(String[] args){
 		for(int i=2; i<=9; i++){
