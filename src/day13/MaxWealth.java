@@ -1,5 +1,6 @@
 package day13;
 
+
 // 1672. Richest Customer Wealth
 public class MaxWealth {
 	public int maximumWealth(int[][] accounts) {

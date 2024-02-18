@@ -1,5 +1,6 @@
 package day13;
 
+
 // 2413. Smallest Even Multiple
 public class SmallestEvenMultiple {
 	public int smallestEvenMultiple(int n) {
@@ -8,4 +9,5 @@ public class SmallestEvenMultiple {
         }
         return n * 2;
     }
+	
 }
