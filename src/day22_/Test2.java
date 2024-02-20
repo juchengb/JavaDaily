@@ -1,4 +1,4 @@
-package day18to28;
+package day22_;
 
 public class Test2 {
 
