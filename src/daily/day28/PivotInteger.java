@@ -1,5 +1,6 @@
 package daily.day28;
 
+// 2485. Find the Pivot Integer
 public class PivotInteger {
 
 	public static void main(String[] args) {
