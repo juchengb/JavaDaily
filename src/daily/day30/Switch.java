@@ -19,7 +19,6 @@ public class Switch {
 				case "wed":
 					wd += 2;
 					System.out.println("經過 wed, wd += 2, wd = " + wd);
-			
 			}
 		}
 		System.out.println(wd);
