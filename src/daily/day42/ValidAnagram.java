@@ -2,6 +2,8 @@ package daily.day42;
 
 import java.util.Arrays;
 
+
+// 242. Valid Anagram
 public class ValidAnagram {
 	public boolean isAnagram(String s, String t) {
 		char[] sChars = s.toCharArray();
