@@ -1,5 +1,6 @@
 package daily.day44;
 
+// 2073. Time Needed to Buy Tickets
 public class TimeNeededToBuyTickets {
 	public int timeRequiredToBuy(int[] tickets, int k) {
         int total = 0;
