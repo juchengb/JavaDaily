@@ -3,6 +3,7 @@ package daily.day50;
 import java.util.Arrays;
 
 // 2037. Minimum Number of Moves to Seat Everyone
+// Greedy Algorithm
 public class MinMoves {
 	public int minMovesToSeat(int[] seats, int[] students) {
         int count = 0;
