@@ -1,7 +1,6 @@
-// 605. Can Place Flowers
+// 605. Can Place Flowers - Greedy（貪婪法）
 public class D004CanPlaceFlowers {
 
-    // Greedy（貪婪法）
     public boolean canPlaceFlowers(int[] flowerbed, int n) {
 
         if (n == 0) {

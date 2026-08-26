@@ -1,7 +1,6 @@
-// 345. Reverse Vowels of a String
+// 345. Reverse Vowels of a String - Two Pointers
 public class D005ReverseVowels {
 
-    // 雙指標 Two Pointers
     public String reverseVowels(String s) {
 
         char[] chars = s.toCharArray();
