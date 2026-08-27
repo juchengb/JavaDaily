@@ -1,3 +1,4 @@
+package daily.leetcode75;
 // 605. Can Place Flowers - Greedy（貪婪法）
 public class D004CanPlaceFlowers {
 

@@ -1,3 +1,4 @@
+package daily.leetcode75;
 // 345. Reverse Vowels of a String - Two Pointers
 public class D005ReverseVowels {
 

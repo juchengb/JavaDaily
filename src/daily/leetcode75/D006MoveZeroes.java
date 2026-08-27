@@ -1,3 +1,4 @@
+package daily.leetcode75;
 // 283. Move Zeroes - Two Pointers
 public class D006MoveZeroes {
 

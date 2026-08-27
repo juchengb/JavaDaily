@@ -1,3 +1,4 @@
+package daily.leetcode75;
 // 1768. Merge Strings Alternately
 public class D001MergeStringsAlternately {
 

@@ -1,3 +1,4 @@
+package daily.leetcode75;
 // 1431. Kids With the Greatest Number of Candies
 public class D003KidsWithCandies {
 

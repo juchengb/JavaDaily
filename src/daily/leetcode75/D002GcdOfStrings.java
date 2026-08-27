@@ -1,3 +1,4 @@
+package daily.leetcode75;
 // 1071. Greatest Common Divisor of Strings
 public class D002GcdOfStrings {
 
