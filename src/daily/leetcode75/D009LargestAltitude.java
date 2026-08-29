@@ -11,6 +11,7 @@ public class D009LargestAltitude {
             max = Math.max(current, max);
         }
         return max;
+        
     }
 
 }
