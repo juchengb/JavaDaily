@@ -22,8 +22,7 @@ public class D012UniqueOccurrences {
 
         Set<Integer> seen = new HashSet<>(); // 記錄已出現過的次數
         for (int count : freq.values()) {
-            // add() 成功加入（原本不存在）回傳 true；加入失敗（已存在）回傳 false
-            if (!seen.add(count)) {
+            if (!seen.add(count)) { // 加入成功 (原本不存在) → true；加入失敗 (已存在) → false
                 return false;
             }
         }
