@@ -1,5 +1,5 @@
 package daily.leetcode75;
-
+// 724. Find Pivot Index
 public class D010PivotIndex {
 
     public int pivotIndex(int[] nums) {
