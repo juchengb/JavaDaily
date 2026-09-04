@@ -8,7 +8,7 @@ public class D017ProductExceptSelf {
         int n = nums.length;
         int[] ans = new int[n];
 
-        answer[0] = 1; // 左側空集合的乘積
+        ans[0] = 1; // 左側空集合的乘積
         for (int i = 1; i < n; i++) {
             ans[i] = ans[i - 1] * nums[i - 1]; // 左側前綴乘積
         }
@@ -18,6 +18,8 @@ public class D017ProductExceptSelf {
             ans[i] *= rightProduct; // 將右側乘積乘進答案
             rightProduct *= nums[i]; // 更新右側乘積供下一個位置使用
         }
+        
+        return ans;
 
     }
 
